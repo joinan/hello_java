@@ -34,3 +34,5 @@ public class Quiz2 {
 		}while(scanner.nextLine().equals("y"));
 	}
 }
+
+
